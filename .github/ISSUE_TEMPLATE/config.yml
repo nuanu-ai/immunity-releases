@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Report a security problem
+    url: https://github.com/nuanu-ai/immunity-releases/security/advisories/new
+    about: A flaw in a build or in the update path is reported privately.
+  - name: Detection core
+    url: https://github.com/nuanu-ai/immune/issues
+    about: What Immune detects and how it decides is discussed in the core's repository.

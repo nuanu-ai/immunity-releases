@@ -2,7 +2,7 @@
 
 Signed builds of Immunity, the Mac app of [Artificial Immunity](https://artificialimmunity.ai), and the feed the app updates from. This repository holds builds only. There is no source code here.
 
-Immunity watches one Mac for signs of attack and shows what it found and what it could not see. Its detection core is open source: [nuanu-ai/immune](https://github.com/nuanu-ai/immune). The app around the core is developed outside this repository.
+Immunity watches one Mac for signs of attack and shows what it found and what it could not see. Its detection core, Immunity Core, is open source: [nuanu-ai/immunity-core](https://github.com/nuanu-ai/immunity-core). The app around the core is developed outside this repository.
 
 ## Install
 
@@ -52,4 +52,4 @@ If any of the three differs, do not install the package, and report it as [SECUR
 
 - The installer or an update does not work: open an [issue](https://github.com/nuanu-ai/immunity-releases/issues) here. Leave out anything real from your Mac, such as paths, host names and command lines.
 - A security problem in a build or in the update path: report it privately, as [SECURITY.md](SECURITY.md) says.
-- What Immune detects and how: the core's repository, [nuanu-ai/immune](https://github.com/nuanu-ai/immune).
+- What Immunity Core detects and how: the core's repository, [nuanu-ai/immunity-core](https://github.com/nuanu-ai/immunity-core).
